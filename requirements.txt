@@ -6,4 +6,3 @@ pillow
 geocoder==1.38.1
 ultralytics
 torch==1.9.1
-libgl1-mesa-glx
