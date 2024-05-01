@@ -1,9 +1,9 @@
-streamlit
+streamlit===1.32.2
 opencv-python
 numpy
 pandas
 pillow
-geocoder
+geocoder==1.38.1
 shutil
 ultralytics
 torch
