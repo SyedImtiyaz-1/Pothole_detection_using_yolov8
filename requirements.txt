@@ -1,5 +1,5 @@
 streamlit==1.32.2
-opencv-contrib-python
+opencv-python
 numpy
 pandas
 pillow
