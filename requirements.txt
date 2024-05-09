@@ -1,6 +1,5 @@
 streamlit==1.32.2
 opencv-python
-python3.6
 numpy
 pandas
 pillow
